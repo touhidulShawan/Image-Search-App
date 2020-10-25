@@ -14,13 +14,13 @@ const SearchBar = (props) => {
     <div className="ui segment" style={{ marginTop: "10px" }}>
       <form action="" className="ui form" onSubmit={onFormSubmit}>
         <div className="field">
-          <label htmlFor="">Image Search</label>
           <input
             type="text"
             value={term}
             onChange={(event) => {
               setTerm(event.target.value);
             }}
+            placeholder="Enter your keyword..."
           />
         </div>
       </form>
