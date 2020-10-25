@@ -1,13 +1,20 @@
 {
-  "main.css": "/Image-Search-App/static/css/main.7a23aee8.chunk.css",
-  "main.js": "/Image-Search-App/static/js/main.bea32826.chunk.js",
-  "main.js.map": "/Image-Search-App/static/js/main.bea32826.chunk.js.map",
-  "static/js/1.da79324a.chunk.js": "/Image-Search-App/static/js/1.da79324a.chunk.js",
-  "static/js/1.da79324a.chunk.js.map": "/Image-Search-App/static/js/1.da79324a.chunk.js.map",
-  "runtime~main.js": "/Image-Search-App/static/js/runtime~main.7f559fc2.js",
-  "runtime~main.js.map": "/Image-Search-App/static/js/runtime~main.7f559fc2.js.map",
-  "static/css/main.7a23aee8.chunk.css.map": "/Image-Search-App/static/css/main.7a23aee8.chunk.css.map",
-  "index.html": "/Image-Search-App/index.html",
-  "precache-manifest.3760a55674f084e097407b7632fdab5c.js": "/Image-Search-App/precache-manifest.3760a55674f084e097407b7632fdab5c.js",
-  "service-worker.js": "/Image-Search-App/service-worker.js"
+  "files": {
+    "main.css": "/Image-Search-App/static/css/main.d50c56d6.chunk.css",
+    "main.js": "/Image-Search-App/static/js/main.325ee9d6.chunk.js",
+    "main.js.map": "/Image-Search-App/static/js/main.325ee9d6.chunk.js.map",
+    "runtime-main.js": "/Image-Search-App/static/js/runtime-main.d0dbbb95.js",
+    "runtime-main.js.map": "/Image-Search-App/static/js/runtime-main.d0dbbb95.js.map",
+    "static/js/2.55126901.chunk.js": "/Image-Search-App/static/js/2.55126901.chunk.js",
+    "static/js/2.55126901.chunk.js.map": "/Image-Search-App/static/js/2.55126901.chunk.js.map",
+    "index.html": "/Image-Search-App/index.html",
+    "static/css/main.d50c56d6.chunk.css.map": "/Image-Search-App/static/css/main.d50c56d6.chunk.css.map",
+    "static/js/2.55126901.chunk.js.LICENSE.txt": "/Image-Search-App/static/js/2.55126901.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0dbbb95.js",
+    "static/js/2.55126901.chunk.js",
+    "static/css/main.d50c56d6.chunk.css",
+    "static/js/main.325ee9d6.chunk.js"
+  ]
 }
