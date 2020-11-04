@@ -14,12 +14,10 @@ const App = () => {
         .get("https://api.unsplash.com/search/photos", {
           params: { query: term, per_page: 30 },
           headers: {
-            Authorization:
-              "Client-ID 3daa1c358646b6d4d27e8c541251c2c78047e4ffb3fe2bad5cdd08daf4a0753f",
+            Authorization: `Client-ID ${process.env.REACT_APP_API_KEY}`,
           },
         })
         .then((response) => {
-          console.log(response.data.results);
           setImages(response.data.results);
         });
     };
